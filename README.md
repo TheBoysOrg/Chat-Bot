@@ -1,44 +1,39 @@
-# ChatBot POO - Projeto Inspirado no ChatGPT
+# 🤖 ChatBot POO – Inspirado no ChatGPT  
 
-Este é um projeto de chatbot desenvolvido com **Programação Orientada a Objetos (POO)**, inspirado no modelo de linguagem de IA do **ChatGPT**. O objetivo é criar um sistema de conversação inteligente que possa interagir de forma fluida e proporcionar respostas relevantes para os usuários.
+Este é um projeto de chatbot desenvolvido utilizando **Programação Orientada a Objetos (POO)**, inspirado no modelo de linguagem de IA do **ChatGPT**. O objetivo é criar um sistema de conversação inteligente que possa interagir de forma fluida e fornecer respostas relevantes para os usuários.  
 
-## Tecnologias Utilizadas
+---
 
-- **Java**: Linguagem de programação principal.
-- **POO (Programação Orientada a Objetos)**: Paradigma utilizado para a organização do código.
-- **Swing**: Biblioteca para criação da interface gráfica do usuário.
-- **NetBeans**: Ambiente de desenvolvimento integrado (IDE) utilizado para o projeto.
-- **JDK**: Kit de desenvolvimento Java necessário para compilar e executar o código.
+## 🚀 Tecnologias Utilizadas  
 
-## Funcionalidades
+| 💻 Tecnologia  | 🔍 Descrição |
+|--------------|------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Linguagem principal utilizada no desenvolvimento. |
+| ![POO](https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge) | Paradigma utilizado para estruturar o código. |
+| ![Swing](https://img.shields.io/badge/Swing-Interface%20Gráfica-orange?style=for-the-badge) | Biblioteca para construção da interface gráfica do usuário. |
+| ![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) | IDE utilizada para desenvolver e gerenciar o projeto. |
+| ![JDK](https://img.shields.io/badge/JDK-Kit%20de%20Desenvolvimento%20Java-brightgreen?style=for-the-badge) | Necessário para compilar e executar o código. |
 
-- **Interação com o usuário**: O bot responde a mensagens de texto do usuário.
-- **Respostas inteligentes**: O chatbot usa um conjunto de regras ou IA básica para gerar respostas.
-- **Processamento de linguagem natural**: O bot é capaz de entender e responder em linguagem natural (caso deseje integrar NLP).
-- **Personalização**: O sistema pode ser facilmente estendido para integrar modelos de IA mais avançados, como o GPT-3, dependendo da necessidade.
+---
 
-## Estrutura do Projeto
+## 🛠️ Funcionalidades  
 
-A estrutura do código segue o padrão de POO, com as principais classes e métodos descritos abaixo:
+✅ **Interação com o usuário** – O bot responde às mensagens do usuário de forma dinâmica.  
+✅ **Respostas inteligentes** – Pode utilizar regras pré-definidas ou IA para melhorar as respostas.  
+✅ **Processamento de linguagem natural (opcional)** – Possibilidade de integração com NLP para respostas mais avançadas.  
+✅ **Personalização** – Fácil de expandir e integrar com modelos de IA, como GPT-3.  
 
-### Classes principais:
+---
 
-1. 
+## 📂 Estrutura do Projeto  
 
-2. 
+A organização do código segue o padrão de POO, com as seguintes classes principais:  
 
-3. 
+```bash
+📦 ChatBotPOO
+ ┣ 📜 Main.java          # Classe principal que inicia o chatbot
+ ┣ 📜 ChatBot.java       # Classe responsável pela lógica do chatbot
+ ┣ 📜 InterfaceGUI.java  # Interface gráfica utilizando Swing
+ ┣ 📜 ProcessadorNLP.java # (Opcional) Processamento de linguagem natural
+ ┗ 📜 Utils.java         # Funções auxiliares para o chatbot
 
-4. 
-
-## Como Usar
-
-### Pré-requisitos
-
-Certifique-se de ter o seguinte instalado em sua máquina:
-
-1. **Java JDK** (Java Development Kit): A versão mais recente do JDK pode ser baixada no [site oficial da Oracle](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html).
-   Você pode verificar a versão instalada com o comando:
-
-   ```bash
-   java -version
