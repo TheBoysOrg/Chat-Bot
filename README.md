@@ -25,15 +25,4 @@ Este é um projeto de chatbot desenvolvido utilizando **Programação Orientada 
 
 ---
 
-## 📂 Estrutura do Projeto  
-
-A organização do código segue o padrão de POO, com as seguintes classes principais:  
-
-```bash
-📦 ChatBotPOO
- ┣ 📜 Main.java          # Classe principal que inicia o chatbot
- ┣ 📜 ChatBot.java       # Classe responsável pela lógica do chatbot
- ┣ 📜 InterfaceGUI.java  # Interface gráfica utilizando Swing
- ┣ 📜 ProcessadorNLP.java # (Opcional) Processamento de linguagem natural
- ┗ 📜 Utils.java         # Funções auxiliares para o chatbot
 
