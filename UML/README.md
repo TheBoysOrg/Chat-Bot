@@ -20,7 +20,7 @@ Os seguintes diagramas podem estar presentes nesta pasta:
 
 ## Ferramenta Utilizada
 
-- **Lucidchart ** - é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas, além de melhorar processos, sistemas e estruturas organizacionais.  [Lucidchart](https://www.lucidchart.com/pages/pt)
+- **Lucidchart** - é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas, além de melhorar processos, sistemas e estruturas organizacionais.  [Lucidchart](https://www.lucidchart.com/pages/pt)
 
 
 
