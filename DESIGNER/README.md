@@ -5,6 +5,9 @@ Bem-vindo à pasta **designer**! Esta pasta contém todo o código relacionado a
 ![image](https://github.com/user-attachments/assets/8024799b-fe0f-4d99-96f4-fbe383c1657b)
 *primeiro designer*
 
+![image](https://github.com/user-attachments/assets/95468e7f-ca9d-4397-8239-2c4b328a5204)
+*Ultimo Designer*
+
 ![CR7](img/exemplo.jpg)
 *Exemplo da GUI do Chat Bot*
 
