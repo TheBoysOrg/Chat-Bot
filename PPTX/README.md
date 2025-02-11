@@ -20,3 +20,4 @@ Caso precise atualizar os slides:
 = Salve uma nova versão mantendo o nome do arquivo ou criando uma versão numerada (ex: apresentacao_v2.pptx)
 - Substitua o arquivo antigo ou adicione a nova versão à pasta
 - Atualize este README.md se necessário
+- [link para o canva](https://www.canva.com/design/DAGeuC3Dfmc/O6XvJiS8RkDW3gtw2a8kVg/edit?utm_content=DAGeuC3Dfmc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
